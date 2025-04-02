@@ -8,3 +8,4 @@ test.py
 snp.py
 snp500.csv
 .idea/*
+src/scoring/.env
